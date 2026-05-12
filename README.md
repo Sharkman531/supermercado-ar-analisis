@@ -6,6 +6,11 @@ construido con SQL Server, Power Query y DAX en Power BI.
 ## Herramientas
 SQL Server · Power Query · DAX · Power BI
 
+## Dataset
+Synthetic dataset simulating Argentine supermarket sales across 8 branches 
+during 2024, incorporating real inflation indices from INDEC to reflect 
+Argentina's economic context.
+
 ## Contenido
 - Base de datos relacional con modelo estrella (4 tablas)
 - Consultas SQL con window functions (LAG, particiones)
