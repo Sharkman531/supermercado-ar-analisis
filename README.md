@@ -1,4 +1,4 @@
-# Análisis de Ventas 2024 · SupermercadoAR 🛒
+# Análisis de Ventas 2024 · SupermercadoAR
 
 Dashboard de análisis de ventas de una cadena de supermercados argentina,
 construido con SQL Server, Power Query y DAX en Power BI.
